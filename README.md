@@ -37,7 +37,7 @@ SPSS Universal Activator.sh
 
 ## SelfService Item
 ### 
-<img src="/Screenshots/SPSS-Policy.png" width="800">
+<img src="Screenshots/SelfService-SPSS.png" width="800">
 
 
 ## Note and disclaimer
