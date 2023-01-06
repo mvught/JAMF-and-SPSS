@@ -17,14 +17,16 @@
 INSTALLERPATH="/Users/mvught/Downloads/SPSSSC_29.0.0.0_Mac.pkg"
 #####Change licenseserver to yours!!
 SERVERPATH="licenseserver.github.nl"
-ACTIVATIONPATH="/Applications/IBM*/Resources/Activation"
+#####Change from 0 to max 30 days!!
+DAYS="30"
 
 #Run Installer-PKG
 sudo installer -pkg $INSTALLERPATH -target /Applications/ 
 
 #Go to PATH
+ACTIVATIONPATH="/Applications/IBM*/Resources/Activation"
 cd $ACTIVATIONPATH
-sudo ./licenseactivator LSHOST=$SERVERPATH COMMUTE_MAX_LIFE=30
+sudo ./licenseactivator LSHOST=$SERVERPATH COMMUTE_MAX_LIFE=$DAYS
 
 #Check if dockutil is installed
 if [[ -x "/usr/local/bin/dockutil" ]]; then
