@@ -13,9 +13,9 @@
 #
 ###
 
-#Change this PATH to your PKG location!
+#####Change this PATH to your PKG location!!
 INSTALLERPATH="/Users/mvught/Downloads/SPSSSC_29.0.0.0_Mac.pkg"
-#License prefs
+#####Change licenseserver to yours!!
 SERVERPATH="licenseserver.github.nl"
 ACTIVATIONPATH="/Applications/IBM*/Resources/Activation"
 
