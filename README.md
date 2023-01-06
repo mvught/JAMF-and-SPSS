@@ -5,7 +5,6 @@
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Download](#download)
 - [JAMF](#JAMF)
   * [Policy](#Policy)
   * [SelfService Item](#SelfService-Item)
@@ -26,10 +25,6 @@ dockutil is a command line utility for managing macOS dock items. It is currentl
   * Add, List, Move, Find, Remove Dock Items
   * Supports Applications, Folders, Stacks, URLs.
   * Can act on a specific dock plist or every dock plist in a folder of home directories
-
-## Download
-### Script [**Download**](https://github.com/mvught/JAMF-and-SPSS/blob/main/SPSS%20Universal%20Activator.sh)
-SPSS Universal Activator.sh 
 
 ## JAMF
 ### Policy
