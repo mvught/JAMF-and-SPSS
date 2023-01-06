@@ -14,7 +14,7 @@
 ## Introduction
 ### How to Install SPSS 
 First of al download the latest version of SPSS. The package is all good no need to edit.
-<img src="/Screenshots/SPSSSC_29.0.0.0_Mac.png" width="800">
+<img src="/Screenshots/IBM_SPSS_Statistics_Client.png" width="800">
 
 ## Requirements
 ### dockutil
