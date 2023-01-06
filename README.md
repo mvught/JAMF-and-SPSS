@@ -13,23 +13,31 @@
 - [Note and disclaimer](#note-and-disclaimer)
 
 ## Introduction
-### How to Install SPSS, first of al download the latest version of SPSS. The package is all good no need to edit.
+### How to Install SPSS 
+First of al download the latest version of SPSS. The package is all good no need to edit.
 <img src="/Screenshots/SPSSSC_29.0.0.0_Mac.png" width="800">
 
 ## Requirements
-### 
+### dockutil
 https://github.com/kcrawford/dockutil
+dockutil is a command line utility for managing macOS dock items. It is currently written in Swift.
 
+  * Compatible with macOS Big Sur & Monterey (use 2.x version for older OSes)
+  * Add, List, Move, Find, Remove Dock Items
+  * Supports Applications, Folders, Stacks, URLs.
+  * Can act on a specific dock plist or every dock plist in a folder of home directories
 
 ## Download
-### 
+### Script [**Download**](https://github.com/mvught/JAMF-and-SPSS/blob/main/SPSS%20Universal%20Activator.sh)
+SPSS Universal Activator.sh 
 
 ## JAMF
 ### Policy
 <img src="/Screenshots/SPSS-Policy.png" width="800">
-### SelfService-Item
-### script
 
+## SelfService Item
+### 
+<img src="/Screenshots/SPSS-Policy.png" width="800">
 
 
 ## Note and disclaimer
