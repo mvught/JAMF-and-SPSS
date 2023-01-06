@@ -7,7 +7,7 @@
 - [Requirements](#requirements)
 - [Download](#download)
 - [JAMF](#JAMF)
-  * [Smart Groups](#Smart-Groups)
+  * [Policy](#Policy)
   * [SelfService Item](#SelfService-Item)
   * [Script](#Script)
 - [Note and disclaimer](#note-and-disclaimer)
@@ -17,14 +17,22 @@
 <img src="/Screenshots/SPSSSC_29.0.0.0_Mac.png" width="800">
 
 ## Requirements
-###
+### 
+https://github.com/kcrawford/dockutil
 
 
 ## Download
-###
+### 
 
 ## JAMF
-###
-
+### Policy
 <img src="/Screenshots/SPSS-Policy.png" width="800">
+### SelfService-Item
+### script
 
+
+
+## Note and disclaimer
+* UMC-Utrecht developed this script as a side project to add additional value you
+* The script can be used free of charge and is provided ‘as is’, without any warranty
+* Comments and feature request are appreciated. Please file an issue on Github
