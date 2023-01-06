@@ -7,6 +7,9 @@ How to Install SPSS, first of al download the latest version of SPSS. The packag
 
 <img src="/Screenshots/SPSSSC_29.0.0.0_Mac.png" width="800">
 
+<img src="/Screenshots/SPSS-Policy.png" width="800">
+
+
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Download](#download)
